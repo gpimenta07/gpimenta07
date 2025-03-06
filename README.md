@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Eu sou o Gabriel Carvalho Pimenta, sou um Programador Front End e estou aprendendo e criando projetos responsivos com:
+Eu sou o Gabriel Carvalho Pimenta, sou um Programador Front End e estou desenvolvendo projetos com:
 <br>
 <br>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" /> 
